@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "biggest.com.jbergen.app", "biggest-debug.com.jbergen" ],
+        "components": [{
+            "/": "/" ,
+            "?": { "invite": "*" },
+            "comment": "Matches any URL at the base domain and which has a query item with name 'invite'"
+        }]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [ "biggest.com.jbergen.app", "biggest-debug.com.jbergen.app" ]
+  }
+}
