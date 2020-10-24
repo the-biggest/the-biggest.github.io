@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [ "com.jbergen.biggest", "com.jbergen.biggest-debug" ],
+        "appIDs": [ "KDKJTS6G8F.com.jbergen.biggest", "KDKJTS6G8F.com.jbergen.biggest-debug" ],
         "components": [{
             "/": "/" ,
             "?": { "invite": "*" },
