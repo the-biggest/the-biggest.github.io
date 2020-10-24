@@ -1,0 +1,21 @@
+.coming-soon-wrapper {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.coming-soon-box {
+  background: rgb(227,0,255);
+  background: linear-gradient(135deg, rgba(227,0,255,1) 0%, rgba(0,212,255,1) 100%);
+  color: white;
+  height: calc(100% - 2rem);
+  width: calc(100% - 2rem);
+  top: 1rem;
+  left: 1rem;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  display: block;
+  box-sizing: border-box;
+  position: relative;
+  font-size: 2rem;
+}
