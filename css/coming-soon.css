@@ -1,3 +1,11 @@
+.container {
+  padding: 2rem;
+}
+
+.app-document {
+  color: #444;
+}
+
 .coming-soon-wrapper {
   height: 100%;
   width: 100%;
